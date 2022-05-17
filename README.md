@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samuel-Effiong
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Tensorflow
-- 💞️ I’m looking to collaborate on building image recognition models
+- 💞️ I’m looking to collaborate on building NLP models
 - �  You can email me on samueleffiong80@gmail.com
 
 <!---
